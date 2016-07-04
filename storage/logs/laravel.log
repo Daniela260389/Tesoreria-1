@@ -1,0 +1,3 @@
+[2016-07-03 16:22:55] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected '}', expecting ',' or ';'' in C:\Program Files (x86)\PostgreSQL\EnterpriseDB-ApachePHP\apache\www\teso\app\Http\routes.php:17
+Stack trace:
+#0 {main}  
